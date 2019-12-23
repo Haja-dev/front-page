@@ -1,2 +1,2 @@
-# furry-memory
-Inspiration repo
+# front-page
+A very simple front-end page
